@@ -1,0 +1,63 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    background-color: orangered;
+    color: black;
+    width: 25%;
+    font-size: 25px;
+    line-height: 2;
+    border-radius: 25px;
+    padding: 15px;
+    font-family: 'Pacifico', cursive;;
+}
+
+#first{
+    width: 56%;
+    height: 5px;
+    background-color: maroon;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+
+#second{
+    width: 42%;
+    height: 5px;
+    background-color: maroon;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+
+#third{
+    width: 52%;
+    height: 5px;
+    background-color: maroon;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+
+#fourth{
+    width: 38%;
+    height: 5px;
+    background-color: maroon;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+
+#fifth{
+    width: 26%;
+    height: 5px;
+    background-color: maroon;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+
+#sixth{
+    width: 38%;
+    height: 5px;
+    background-color: maroon;
+    border-radius: 25px;
+    margin-top: 25px;
+}
